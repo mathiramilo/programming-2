@@ -1,0 +1,16 @@
+# Prueba de estaVacioAvl, insertarEnAvl, buscarEnAvl, raizAvl, izqAvl y derAvl del modulo avl de enteros
+estaVacioAvl
+buscarEnAvl 1
+insertarEnAvl 1
+insertarEnAvl 2
+insertarEnAvl 3
+insertarEnAvl 4
+estaVacioAvl
+buscarEnAvl 1
+buscarEnAvl 2
+buscarEnAvl 3
+buscarEnAvl 4
+raizAvl
+izqAvl
+derAvl
+Fin

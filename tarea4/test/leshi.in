@@ -1,0 +1,66 @@
+# Prueba de operaciones de Avl 
+insertarEnAvl 50
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 60
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 70
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 80
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 75
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 40
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 30
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 55
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+insertarEnAvl 52
+raizAvl
+derAvl
+izqAvl
+alturaDeAvl
+cantidadEnAvl
+buscarEnAvl 80
+buscarEnAvl 50
+buscarEnAvl 60
+buscarEnAvl 70
+buscarEnAvl 75
+buscarEnAvl 40
+buscarEnAvl 55
+buscarEnAvl 52
+imprimirAvl
+enOrdenAvl
+Fin

@@ -1,0 +1,16 @@
+# Prueba de imprimirAvl
+imprimirAvl
+insertarEnAvl 40
+imprimirAvl
+insertarEnAvl 60
+imprimirAvl
+insertarEnAvl 80
+imprimirAvl
+insertarEnAvl 70
+insertarEnAvl 65
+insertarEnAvl 63
+imprimirAvl
+insertarEnAvl 20
+insertarEnAvl 30
+imprimirAvl
+Fin

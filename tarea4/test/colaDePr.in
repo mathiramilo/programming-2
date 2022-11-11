@@ -1,0 +1,54 @@
+# Prueba de operaciones de colaDePrioridad
+insertarEnCP 5 15.0
+insertarEnCP 99 1.5
+insertarEnCP 7 120.3
+insertarEnCP 32 1.6
+insertarEnCP 21 -0.9
+insertarEnCP 23 50.4
+insertarEnCP 19 36.2
+insertarEnCP 31 1.9
+insertarEnCP 17 2.3
+insertarEnCP 65 -5.4
+insertarEnCP 63 2.9
+insertarEnCP 91 8.3
+insertarEnCP 13 4.1
+insertarEnCP 16 5.3
+insertarEnCP 46 8.7
+insertarEnCP 35 40.9
+insertarEnCP 2 35.6
+insertarEnCP 75 13.3
+insertarEnCP 74 -3.5
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+actualizarEnCP 35 2.5
+prioritario
+eliminarPrioritario
+prioritario
+prioridad 35
+actualizarEnCP 19 -10.0
+prioritario
+eliminarPrioritario
+estaEnCP 19
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+eliminarPrioritario
+estaVaciaCP
+Fin

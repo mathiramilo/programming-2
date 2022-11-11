@@ -1,0 +1,28 @@
+1>#  Implementar localizadorEnCadena, precedeEnCadena.
+2>loc no pertenece a cad.
+3>Insertado al final.
+4>loc no pertenece a cad.
+5>loc al final.
+6>loc pertenece a cad.
+7>loc al siguiente.
+8>loc no pertenece a cad.
+9>loc1 no precede a loc.
+10>loc al final.
+11>loc1 precede a loc.
+12>loc1 no precede a loc.
+13>loc1 no precede a loc.
+14>Segmento insertado después de loc.
+15>loc1 precede a loc.
+16>loc1 no precede a loc.
+17>loc1 no precede a loc.
+18>loc al siguiente.
+19>loc1 precede a loc.
+20>loc1 precede a loc.
+21>loc1 no precede a loc.
+22>loc al final.
+23>loc1 precede a loc.
+24>loc1 no precede a loc.
+25>loc al anterior.
+26>loc1 no precede a loc.
+27>loc1 precede a loc.
+28>Fin.

@@ -1,0 +1,25 @@
+hacerVecinos 1 2 5.0
+hacerVecinos 1 3 5.0
+hacerVecinos 1 4 5.0
+hacerVecinos 1 5 5.0
+hacerVecinos 1 6 5.0
+hacerVecinos 1 7 5.0
+hacerVecinos 1 8 5.0
+hacerVecinos 1 9 5.0
+hacerVecinos 1 10 5.0
+longitudesCaminosMasCortos 5
+hacerVecinos 10 2 1.0
+hacerVecinos 10 3 1.0
+hacerVecinos 10 4 1.0
+hacerVecinos 10 5 1.0
+hacerVecinos 10 6 1.0
+hacerVecinos 10 7 1.0
+hacerVecinos 10 8 1.0
+hacerVecinos 10 9 1.0
+longitudesCaminosMasCortos 5
+distancia 5 1
+distancia 5 10
+sonVecinos 2 5
+vecinos 10
+vecinos 2
+Fin

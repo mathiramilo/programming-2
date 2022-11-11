@@ -1,0 +1,27 @@
+# Pruebas simples de CP
+# EliminarPrioritario 3 veces.
+insertarEnCP 1 1.1
+insertarEnCP 2 2.2
+insertarEnCP 3 3.3
+insertarEnCP 4 4.4
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+eliminarPrioritario
+prioritario
+# ActualizarEnCP aumentando
+reiniciar
+insertarEnCP 1 1.1
+insertarEnCP 2 2.2
+insertarEnCP 3 3.3
+eliminarPrioritario
+actualizarEnCP 3 6.6
+# ActualizarEnCP decreciendo
+reiniciar
+insertarEnCP 1 1.1
+insertarEnCP 2 2.2
+insertarEnCP 3 6.6
+eliminarPrioritario
+actualizarEnCP 3 9.9
+Fin

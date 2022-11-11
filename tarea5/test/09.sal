@@ -1,0 +1,42 @@
+==25784== Invalid read of size 8
+==25784==    at 0x10C820: main (principal.cpp:819)
+==25784==  Address 0x5b80248 is 0 bytes after a block of size 8 alloc'd
+==25784==    at 0x4C3089F: operator new[](unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==25784==    by 0x10EB05: longitudesCaminosMasCortos(unsigned int, repGrafo*) (usoTads.cpp:39)
+==25784==    by 0x10C7D6: main (principal.cpp:817)
+==25784== 
+==25784== Invalid read of size 8
+==25784==    at 0x10C863: main (principal.cpp:822)
+==25784==  Address 0x5b80248 is 0 bytes after a block of size 8 alloc'd
+==25784==    at 0x4C3089F: operator new[](unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==25784==    by 0x10EB05: longitudesCaminosMasCortos(unsigned int, repGrafo*) (usoTads.cpp:39)
+==25784==    by 0x10C7D6: main (principal.cpp:817)
+==25784== 
+1>#  Implementar longitudesCaminosMasCortos.
+2>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+3>Nuevos vecinos: 2 5 30.00.
+4>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+5>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+6>Nuevos vecinos: 8 5 20.00.
+7>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+8>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+9>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+10>Nuevos vecinos: 1 4 10.00.
+11>Nuevos vecinos: 5 4 10.00.
+12>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+13>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+14>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+15>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+16>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+17>Nuevos vecinos: 10 4 90.00.
+18>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+19>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+20>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+21>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+22>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+23>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+24>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+25>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+26>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+27>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+28>Fin.

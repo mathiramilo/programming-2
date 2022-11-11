@@ -1,0 +1,27 @@
+1>Nuevos vecinos: 2 1 5.00.
+2>Nuevos vecinos: 3 1 5.00.
+3>Nuevos vecinos: 10 1 5.00.
+4>Nuevos vecinos: 9 1 5.00.
+5>Nuevos vecinos: 8 1 5.00.
+6>NO hay M parejas.
+7>Son vecinos.
+8>NO son vecinos.
+9>5.00
+10>1 
+11>1 
+12>
+13>1 1 1 0 0 0 0 1 1 1 
+14>0 0 0 0 0 1 0 0 0 0 
+15>5.00 10.00 0.00 INF INF INF INF 10.00 10.00 10.00 
+16>INF INF INF INF INF 0.00 INF INF INF INF 
+17>10.
+18>Nuevos vecinos: 2 3 1.00.
+19>Nuevos vecinos: 2 10 1.00.
+20>Nuevos vecinos: 4 7 2.00.
+21>5.00 1.00 0.00 INF INF INF INF 10.00 10.00 2.00 
+22>INF INF INF INF INF 0.00 INF INF INF INF 
+23>Nuevos vecinos: 7 5 2.00.
+24>INF INF INF 0.00 4.00 INF 2.00 INF INF INF 
+25>1 1 1 0 0 0 0 1 1 1 
+26>0 0 0 1 1 0 1 0 0 0 
+27>Fin.

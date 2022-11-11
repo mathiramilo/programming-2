@@ -1,0 +1,50 @@
+hacerVecinos 2 1 5.0
+hacerVecinos 3 1 5.0
+hacerVecinos 10 1 5.0
+hacerVecinos 9 1 5.0
+hacerVecinos 8 1 5.0
+hayMParejas
+sonVecinos 1 2
+sonVecinos 6 1
+distancia 1 2
+vecinos 2
+vecinos 9
+vecinos 6
+longitudesCaminosMasCortos 3
+longitudesCaminosMasCortos 6
+cantidadVertices
+hacerVecinos 2 3 1.0
+hacerVecinos 2 10 1.0
+hacerVecinos 2 9 1.0
+hacerVecinos 2 8 1.0
+hacerVecinos 4 7 2.0
+longitudesCaminosMasCortos 3
+longitudesCaminosMasCortos 6
+hacerVecinos 7 5 2.0
+hacerVecinos 4 5 2.0
+longitudesCaminosMasCortos 4
+hacerVecinos 10 9 2.0
+hacerVecinos 10 8 2.0
+hacerVecinos 10 3 2.0
+hacerVecinos 8 3 2.0
+hacerVecinos 9 3 2.0
+hacerVecinos 9 8 2.0
+longitudesCaminosMasCortos 4
+hacerVecinos 6 1 0.1
+hacerVecinos 6 2 0.1
+hacerVecinos 6 3 0.1
+hacerVecinos 6 8 0.1
+hacerVecinos 6 9 0.1
+hacerVecinos 6 10 0.1
+longitudesCaminosMasCortos 1
+hacerVecinos 4 1 0.5
+hacerVecinos 4 2 0.5
+hacerVecinos 4 3 0.5
+hacerVecinos 4 9 0.5
+hacerVecinos 4 10 0.5
+hayMParejas
+hacerVecinos 4 8 0.5
+hayMParejas
+longitudesCaminosMasCortos 4
+Fin
+

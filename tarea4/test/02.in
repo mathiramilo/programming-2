@@ -1,0 +1,23 @@
+# Prueba de operaciones de colaAvls 
+estaVaciaColaAvls
+encolar 5 0
+estaVaciaColaAvls
+frente
+encolar -4 0
+estaVaciaColaAvls
+frente
+encolar 20 0
+encolar 50 0
+estaVaciaColaAvls
+frente
+desencolar
+frente
+estaVaciaColaAvls
+desencolar
+frente
+desencolar
+frente
+estaVaciaColaAvls
+desencolar
+estaVaciaColaAvls
+Fin

@@ -1,0 +1,17 @@
+hacerVecinos 1 2 1.0
+sonVecinos 1 2
+sonVecinos 3 4
+distancia 1 2
+vecinos 1
+vecinos 2
+vecinos 4
+hayMParejas
+hacerVecinos 1 4 1.0
+hacerVecinos 3 2 1.0
+vecinos 1
+vecinos 2
+vecinos 4
+hayMParejas
+accesibles 3
+accesibles 10
+Fin

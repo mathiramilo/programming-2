@@ -1,0 +1,28 @@
+encolar 2 5 0
+encolar 3 0
+encolar 4 0
+encolar 6 0
+estaVacioAvl
+arregloAAvl 4 10 12 13 14
+unionDeConjuntos 2 3 6
+interseccionDeConjuntos 4 2 3 4 6
+asociarEnMap 1 15.0
+asociarEnMap 10 25.0
+estaLlenaPila
+estaVaciaPila
+frente
+desencolar
+estaVaciaColaAvls
+derAvl
+alturaDeAvl
+buscarEnAvl 13
+perteneceAConjunto 2
+perteneceAConjunto 6
+iteradorDeConjunto
+existeAsociacionEnMap 5
+valorEnMap 1
+esta_lleno_map
+estaVaciaCP
+estaEnCP 1
+rangoCP
+Fin

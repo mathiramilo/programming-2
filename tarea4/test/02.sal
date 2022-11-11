@@ -1,0 +1,23 @@
+1>#  Prueba de operaciones de colaAvls .
+2>cavl está vacia.
+3>Encolado.
+4>cavl NO está vacia.
+5>5
+6>Encolado.
+7>cavl NO está vacia.
+8>5
+9>Encolado.
+10>Encolado.
+11>cavl NO está vacia.
+12>5
+13>Desencolado.
+14>-4
+15>cavl NO está vacia.
+16>Desencolado.
+17>20
+18>Desencolado.
+19>50
+20>cavl NO está vacia.
+21>Desencolado.
+22>cavl está vacia.
+23>Fin.

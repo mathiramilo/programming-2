@@ -1,0 +1,35 @@
+1>#  Prueba de operaciones de conjunto e interseccionDeConjuntos de usoTads.
+2>Vacio.
+3>0.
+4>No hay elementos en el conjunto.
+5>No pertenece.
+6>Creado el singleton.
+7>No vacío.
+8>1.
+9>5 
+10>Pertenece.
+11>Arreglo a conjunto con 6 elementos.
+12>6.
+13>2 3 6 7 8 9 
+14>Union.
+15>9.
+16>1 2 3 4 5 6 7 8 9 
+17>Union.
+18>11.
+19>0 1 2 3 4 5 6 7 8 9 10 
+20>Diferencia.
+21>6.
+22>0 1 4 5 9 10 
+23>Intersección.
+24>0.
+25>No hay elementos en el conjunto.
+26>Diferencia.
+27>0.
+28>No hay elementos en el conjunto.
+29>Intersección.
+30>0.
+31>No hay elementos en el conjunto.
+32>Union.
+33>3.
+34>1 4 5 
+35>Fin.

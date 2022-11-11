@@ -1,0 +1,24 @@
+apilar 15 4.0
+esVaciaPila
+desapilar
+esVaciaPila
+apilar 15 4.0
+apilar 95 24.0
+cima
+desapilar
+cima
+apilar 95 24.0
+cima
+apilar 85 2.0
+apilar 65 3.0
+apilar 25 67.0
+apilar 35 -12.0
+apilar 75 2.5
+apilar 45 2.1
+apilar 55 -24.0
+apilar 85 32.0
+apilar 10 10.0
+cima
+desapilar
+cima
+Fin

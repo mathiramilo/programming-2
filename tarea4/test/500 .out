@@ -1,0 +1,27 @@
+1>#  Pruebas simples de CP.
+2>#  EliminarPrioritario 3 veces..
+3>Se insertó el elemento.
+4>Se insertó el elemento.
+5>Se insertó el elemento.
+6>Se insertó el elemento.
+7>Eliminado.
+8>2
+9>Eliminado.
+10>3
+11>Eliminado.
+12>4
+13>#  ActualizarEnCP aumentando.
+14>Estructuras reiniciadas.
+15>Se insertó el elemento.
+16>Se insertó el elemento.
+17>Se insertó el elemento.
+18>Eliminado.
+19>Se actualizó el valor.
+20>#  ActualizarEnCP decreciendo.
+21>Estructuras reiniciadas.
+22>Se insertó el elemento.
+23>Se insertó el elemento.
+24>Se insertó el elemento.
+25>Eliminado.
+26>Se actualizó el valor.
+27>Fin.

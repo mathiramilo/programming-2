@@ -1,0 +1,34 @@
+==25791== Invalid read of size 8
+==25791==    at 0x10C820: main (principal.cpp:819)
+==25791==  Address 0x5b80ea8 is 0 bytes after a block of size 8 alloc'd
+==25791==    at 0x4C3089F: operator new[](unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==25791==    by 0x10EB05: longitudesCaminosMasCortos(unsigned int, repGrafo*) (usoTads.cpp:39)
+==25791==    by 0x10C7D6: main (principal.cpp:817)
+==25791== 
+==25791== Invalid read of size 8
+==25791==    at 0x10C863: main (principal.cpp:822)
+==25791==  Address 0x5b80ea8 is 0 bytes after a block of size 8 alloc'd
+==25791==    at 0x4C3089F: operator new[](unsigned long) (in /usr/lib/valgrind/vgpreload_memcheck-amd64-linux.so)
+==25791==    by 0x10EB05: longitudesCaminosMasCortos(unsigned int, repGrafo*) (usoTads.cpp:39)
+==25791==    by 0x10C7D6: main (principal.cpp:817)
+==25791== 
+1>Nuevos vecinos: 2 5 30.00.
+2>Nuevos vecinos: 8 5 20.00.
+3>Nuevos vecinos: 1 4 10.00.
+4>Nuevos vecinos: 5 4 10.00.
+5>Nuevos vecinos: 10 4 90.00.
+6>Nuevos vecinos: 8 10 10.00.
+7>Nuevos vecinos: 3 6 40.00.
+8>Nuevos vecinos: 6 9 40.00.
+9>Nuevos vecinos: 3 9 40.00.
+10>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+11>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+12>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+13>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+14>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+15>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+16>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+17>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+18>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+19>0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 
+20>Fin.

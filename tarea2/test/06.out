@@ -1,0 +1,42 @@
+1>#  Implmentar removerDeCadena.
+2>Insertado al final.
+3>Insertado al final.
+4>Insertado al final.
+5>Insertado al final.
+6>Insertado al final.
+7>loc al inicio.
+8>loc al siguiente.
+9>loc al siguiente.
+10>Removido.
+11>loc al inicio.
+12>loc al siguiente.
+13>(7,2.10)
+14>loc al siguiente.
+15>(9,2.10)
+16>loc al inicio.
+17>Removido.
+18>loc al inicio.
+19>(7,2.10)
+20>loc al final.
+21>Removido.
+22>loc al final.
+23>(9,2.10)
+24>Removido.
+25>loc al final.
+26>(7,2.10)
+27>loc al inicio.
+28>(7,2.10)
+29>cad no vacia.
+30>Removido.
+31>cad vacia.
+32>Insertado al final.
+33>cad no vacia.
+34>loc al inicio.
+35>(6,2.10)
+36>loc al siguiente.
+37>loc no válido.
+38>loc al final.
+39>(6,2.10)
+40>loc al anterior.
+41>loc no válido.
+42>Fin.
